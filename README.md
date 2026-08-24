@@ -1,4 +1,4 @@
-Title 
+
   Introduction – Background, importance
   Objectives – Purpose of seminar
   Main Content – Concept/ methods/ framework
