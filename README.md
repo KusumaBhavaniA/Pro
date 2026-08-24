@@ -1,4 +1,4 @@
-importance
+ortance
   Objectives – Purpose of seminar
   Main Content – Concept/ methods/ framework
 Text Book  -Diagrams/flow chart /algorithms/Query Example/Example
