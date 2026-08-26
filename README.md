@@ -1,4 +1,4 @@
-Concept/ methods/ framework
+ methods/ framework
 Text Book  -Diagrams/flow chart /algorithms/Query Example/Example
   Advantages/Disadvantages(Pros/Cons)
   References
