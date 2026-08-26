@@ -1,13 +1,4 @@
-lgorithms/Query Example/Example
-  Advantages/Disadvantages(Pros/Cons)
-  References
-   Syllabus Text Books 
-    Website references
 
-    import 'package:flutter/material.dart';
-void main() 
-{
- runApp(
  MaterialApp(
  home: Scaffold(
  appBar: AppBar(
