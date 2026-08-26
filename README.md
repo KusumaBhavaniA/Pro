@@ -1,5 +1,4 @@
 
- appBar: AppBar(
  backgroundColor: Colors.blue,
  title: const Text("Image Widget"),
  ), //AppBar
