@@ -1,5 +1,4 @@
-
-Text Book  -Diagrams/flow chart /algorithms/Query Example/Example
+ -Diagrams/flow chart /algorithms/Query Example/Example
   Advantages/Disadvantages(Pros/Cons)
   References
    Syllabus Text Books 
