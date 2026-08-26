@@ -1,4 +1,4 @@
-hart /algorithms/Query Example/Example
+lgorithms/Query Example/Example
   Advantages/Disadvantages(Pros/Cons)
   References
    Syllabus Text Books 
