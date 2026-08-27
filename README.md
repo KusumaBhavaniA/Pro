@@ -1,5 +1,5 @@
 
- title: const Text("Image Widget"),
+
  ), //AppBar
  body: Center(
  child: Column(
