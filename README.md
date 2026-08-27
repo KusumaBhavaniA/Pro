@@ -1,7 +1,7 @@
 
 
 
- body: Center(
+
  child: Column(
  children: [
  Image.asset(
