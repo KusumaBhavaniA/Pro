@@ -1,7 +1,5 @@
 
  
-width: 250,
- 
 height: 250,
  ), //Image.asset
  Text("Flower Image"),
