@@ -1,7 +1,5 @@
 
  
-"images/flower.jpg",
- 
 width: 250,
  
 height: 250,
