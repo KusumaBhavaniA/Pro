@@ -1,8 +1,4 @@
 
-
-
-
- child: Column(
  children: [
  Image.asset(
  
