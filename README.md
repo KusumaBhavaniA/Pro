@@ -1,5 +1,4 @@
 
- ), //Image.asset
  Text("Flower Image"),
  Text("This is a Monkey Orchid flower."),
  ],
